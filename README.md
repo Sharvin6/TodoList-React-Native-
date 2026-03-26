@@ -34,9 +34,9 @@ This project focuses on learning and comparing different state management and da
 
 - React Native  
 - TypeScript  
-- Redux Toolkit  
-- React Redux  
-- Redux Thunk  
+- Redux Toolkit → build Redux
+- React Redux → connect to UI
+- Thunk → async logic 
 - Axios  
 - RTK Query  
 - Reactotron  
